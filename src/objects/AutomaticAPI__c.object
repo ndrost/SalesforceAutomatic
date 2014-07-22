@@ -9,7 +9,10 @@
         <label>automatic_id</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -19,7 +22,10 @@
         <label>client_id</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -29,7 +35,10 @@
         <label>client_secret</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -39,7 +48,10 @@
         <label>refresh</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -49,7 +61,10 @@
         <label>state</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -59,7 +74,10 @@
         <label>token</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>

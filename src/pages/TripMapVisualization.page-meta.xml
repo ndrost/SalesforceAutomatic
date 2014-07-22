@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+<<<<<<< HEAD
     <apiVersion>28.0</apiVersion>
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <label>TripMapVisualization</label>
 </ApexPage>
+=======
+	<apiVersion>28.0</apiVersion>
+	<label>TripMapVisualization</label>
+	<description></description>
+</ApexPage>
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc

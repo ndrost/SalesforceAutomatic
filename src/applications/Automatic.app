@@ -7,7 +7,10 @@
     <tab>Vehicle__c</tab>
     <tab>Trip__c</tab>
     <tab>Automatic_Authorize</tab>
+<<<<<<< HEAD
     <tab>IgnitionOn__c</tab>
     <tab>HardAccelEvent__c</tab>
     <tab>CheckEngine__c</tab>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
 </CustomApplication>

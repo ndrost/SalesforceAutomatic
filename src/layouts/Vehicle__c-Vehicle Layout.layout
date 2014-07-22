@@ -27,6 +27,7 @@
                 <behavior>Edit</behavior>
                 <field>Color__c</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>Hard_Break_Events__c</field>
@@ -35,6 +36,8 @@
                 <behavior>Readonly</behavior>
                 <field>Hard_Acceleration_Events__c</field>
             </layoutItems>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -99,6 +102,7 @@
         <fields>Driver__c</fields>
         <relatedList>Trip__c.Vehicle__c</relatedList>
     </relatedLists>
+<<<<<<< HEAD
     <relatedLists>
         <fields>NAME</fields>
         <fields>DTCS_Code__c</fields>
@@ -123,6 +127,8 @@
         <fields>CREATED_DATE</fields>
         <relatedList>HardAccelEvent__c.Vehicle__c</relatedList>
     </relatedLists>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>

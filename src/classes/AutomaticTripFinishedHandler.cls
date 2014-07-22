@@ -76,4 +76,8 @@ public with sharing class AutomaticTripFinishedHandler implements IAutomaticHand
     	}
 		return true;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc

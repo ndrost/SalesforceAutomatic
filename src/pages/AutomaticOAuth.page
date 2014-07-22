@@ -5,11 +5,19 @@
 			<img src="{!URLFOR($Resource.autoAssets, 'Automatic_Logo.png')}" style="width:200px;"/>
 			<div class="alert alert-danger {!IF(authorized,'hidden','show')}">
 				<b>There was a problem connecting Salesforce to Automatic.</b><br/>
+<<<<<<< HEAD
 				<apex:messages />
 			</div>
 			<div class="alert alert-success {!IF(authorized,'show','hidden')}">
 				<b>You have successfully connected Salesforce to Automatic.</b><br/>
 				<apex:messages />
+=======
+				<apex:messages/>
+			</div>
+			<div class="alert alert-success {!IF(authorized,'show','hidden')}">
+				<b>You have successfully connected Salesforce to Automatic.</b><br/>
+				<apex:messages/>
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
 			</div>
 		</div>
 	</div>

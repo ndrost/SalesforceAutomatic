@@ -5,10 +5,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>CancelEdit</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>Clone</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -21,10 +24,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>Follow</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -33,10 +39,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>SaveEdit</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>Tab</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -44,7 +53,10 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
+<<<<<<< HEAD
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableFeeds>false</enableFeeds>
@@ -57,7 +69,10 @@
         <label>Automatic Id</label>
         <length>255</length>
         <required>true</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>true</unique>
     </fields>
@@ -70,7 +85,10 @@
         <precision>18</precision>
         <required>false</required>
         <scale>4</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Number</type>
         <unique>false</unique>
     </fields>
@@ -80,11 +98,15 @@
         <label>Color</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>Hard_Acceleration_Events__c</fullName>
         <externalId>false</externalId>
         <label>Hard Acceleration Events</label>
@@ -103,12 +125,17 @@
         <type>Summary</type>
     </fields>
     <fields>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <fullName>Make__c</fullName>
         <externalId>false</externalId>
         <label>Make</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -118,7 +145,10 @@
         <label>Model</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -129,7 +159,10 @@
         <summarizedField>Trip__c.Distance_Miles__c</summarizedField>
         <summaryForeignKey>Trip__c.Vehicle__c</summaryForeignKey>
         <summaryOperation>sum</summaryOperation>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Summary</type>
     </fields>
     <fields>
@@ -138,7 +171,10 @@
         <label>Total Trips Taken</label>
         <summaryForeignKey>Trip__c.Vehicle__c</summaryForeignKey>
         <summaryOperation>count</summaryOperation>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Summary</type>
     </fields>
     <fields>
@@ -147,7 +183,10 @@
         <label>Year</label>
         <length>4</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>

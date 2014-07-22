@@ -5,10 +5,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>CancelEdit</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>Clone</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -21,10 +24,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>Follow</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -33,10 +39,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>SaveEdit</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <actionName>Tab</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -44,7 +53,10 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
+<<<<<<< HEAD
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableFeeds>false</enableFeeds>
@@ -57,7 +69,10 @@
         <label>Automatic Id</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>true</unique>
     </fields>
@@ -68,7 +83,10 @@
         <precision>18</precision>
         <required>false</required>
         <scale>6</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Number</type>
         <unique>false</unique>
     </fields>
@@ -81,7 +99,10 @@
         <precision>18</precision>
         <required>false</required>
         <scale>4</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Number</type>
         <unique>false</unique>
     </fields>
@@ -93,7 +114,10 @@
         <referenceTo>User</referenceTo>
         <relationshipName>Trips</relationshipName>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Lookup</type>
     </fields>
     <fields>
@@ -102,7 +126,10 @@
         <label>End Location Name</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -113,7 +140,10 @@
         <label>End Location</label>
         <required>false</required>
         <scale>14</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Location</type>
     </fields>
     <fields>
@@ -122,7 +152,10 @@
         <label>End Time Zone</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -131,7 +164,10 @@
         <externalId>false</externalId>
         <label>End Time</label>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>DateTime</type>
     </fields>
     <fields>
@@ -141,7 +177,10 @@
         <precision>13</precision>
         <required>false</required>
         <scale>10</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Number</type>
         <unique>false</unique>
     </fields>
@@ -150,7 +189,10 @@
         <externalId>false</externalId>
         <label>Path</label>
         <length>32768</length>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>LongTextArea</type>
         <visibleLines>3</visibleLines>
     </fields>
@@ -160,7 +202,10 @@
         <label>Start Location Name</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -171,7 +216,10 @@
         <label>Start Location</label>
         <required>false</required>
         <scale>14</scale>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Location</type>
     </fields>
     <fields>
@@ -180,7 +228,10 @@
         <label>Start Time Zone</label>
         <length>255</length>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Text</type>
         <unique>false</unique>
     </fields>
@@ -189,7 +240,10 @@
         <externalId>false</externalId>
         <label>Start Time</label>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>DateTime</type>
     </fields>
     <fields>
@@ -201,7 +255,10 @@
         <relationshipName>Trips</relationshipName>
         <relationshipOrder>0</relationshipOrder>
         <reparentableMasterDetail>false</reparentableMasterDetail>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>MasterDetail</type>
         <writeRequiresMasterRead>false</writeRequiresMasterRead>
     </fields>
@@ -210,7 +267,10 @@
         <externalId>false</externalId>
         <label>uri</label>
         <required>false</required>
+<<<<<<< HEAD
         <trackTrending>false</trackTrending>
+=======
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
         <type>Url</type>
     </fields>
     <label>Trip</label>

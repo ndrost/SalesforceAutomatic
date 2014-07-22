@@ -6,7 +6,11 @@
 			<p>
 				Click "Authorize" below to be directed to the Automatic site, where you will log in and grant access to your Automatic account.
 			</p>
+<<<<<<< HEAD
 			<apex:form >
+=======
+			<apex:form>
+>>>>>>> 1658ed65238499a52370116b8fbe665b6dfec0dc
 				<apex:commandButton styleClass="btn btn-primary" action="{!doRedirect}" value="Authorize"/>
 			</apex:form>
 		</div>
